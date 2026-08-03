@@ -1,10 +1,10 @@
-🧠 EmoSense AI
+# 🧠 EmoSense AI
 
-«An AI-Powered Emotion Intelligence Platform for Healthcare, Education, Workplace Well-being, and Public Safety.»
+**An AI-Powered Emotion Intelligence Platform for Healthcare, Education, Workplace Well-being, and Public Safety.**
 
 ---
 
-📖 Overview
+## 📖 Overview
 
 EmoSense AI is an AI-assisted emotion intelligence platform designed to help organizations understand emotional well-being through intelligent analytics and interactive dashboards.
 
@@ -12,7 +12,7 @@ The platform focuses on transforming emotional insights into meaningful, data-dr
 
 ---
 
-🎯 Problem Statement
+## 🎯 Problem Statement
 
 Emotional stress, burnout, and mental fatigue often go unnoticed in educational institutions, workplaces, and healthcare environments. Traditional systems focus on productivity and performance but rarely provide insights into emotional well-being.
 
@@ -20,7 +20,7 @@ EmoSense AI aims to bridge this gap by providing a centralized platform that ena
 
 ---
 
-✨ Features
+## ✨ Features
 
 - 🔐 Secure Authentication
 - 📊 Interactive Dashboard
@@ -35,7 +35,7 @@ EmoSense AI aims to bridge this gap by providing a centralized platform that ena
 
 ---
 
-🌍 Use Cases
+## 🌍 Use Cases
 
 - 🏥 Healthcare & Patient Monitoring
 - 🎓 Educational Institutions
@@ -46,21 +46,23 @@ EmoSense AI aims to bridge this gap by providing a centralized platform that ena
 
 ---
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 
-Category| Technologies
-Development| Lovable AI
-Backend| Supabase
-Database| PostgreSQL (Supabase)
-Authentication| Supabase Auth
-UI/UX| Responsive Web Interface
-AI Workflow| Prompt Engineering
-Documentation| Markdown
+| Category | Technology |
+|----------|------------|
+| Development | Lovable AI |
+| Backend | Supabase |
+| Database | PostgreSQL (Supabase) |
+| Authentication | Supabase Auth |
+| UI/UX | Responsive Web Interface |
+| AI Workflow | Prompt Engineering |
+| Documentation | Markdown |
 
 ---
 
-🏗️ System Workflow
+## 🏗️ System Workflow
 
+```text
 User
    │
    ▼
@@ -77,11 +79,13 @@ Emotion Intelligence Layer
    │
    ▼
 Analytics Dashboard
+```
 
 ---
 
-📂 Repository Structure
+## 📂 Repository Structure
 
+```text
 EmoSense-AI/
 │
 ├── README.md
@@ -91,12 +95,13 @@ EmoSense-AI/
 ├── demo/
 ├── prompts/
 └── assets/
+```
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
-«Screenshots will be added in the "screenshots/" folder.»
+Screenshots will be added inside the `screenshots/` folder.
 
 - Login Page
 - Dashboard
@@ -109,13 +114,13 @@ EmoSense-AI/
 
 ---
 
-🎥 Demo
+## 🎥 Demo
 
-A demonstration video of the project will be added soon.
+A demonstration video will be added soon.
 
 ---
 
-🚀 Future Roadmap
+## 🚀 Future Roadmap
 
 - Multimodal Emotion Recognition
 - Wearable Device Integration
@@ -128,7 +133,7 @@ A demonstration video of the project will be added soon.
 
 ---
 
-👨‍💻 My Role
+## 👨‍💻 My Role
 
 My contributions to this project include:
 
@@ -143,26 +148,37 @@ My contributions to this project include:
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
-Contributions, suggestions, and feedback are welcome. Feel free to open an issue or submit a pull request.
-
----
-
-📄 License
-
-This project is licensed under the MIT License.
+Suggestions, feedback, and discussions are welcome.
 
 ---
 
-⭐ Project Note
+## 📄 License
 
-This project was created using AI-assisted software development tools. My primary role involved product planning, feature design, prompt engineering, workflow definition, testing, and documentation.
+This project is licensed under the **MIT License**.
 
 ---
 
-📬 Connect With Me
+## ⭐ Project Note
 
-If you found this project interesting, feel free to connect and explore my other work.
+This project was created using AI-assisted software development tools.
 
-⭐ If you like this project, consider giving it a star!
+My primary contributions included:
+
+- Product planning
+- Feature design
+- Prompt engineering
+- Workflow definition
+- Testing
+- Documentation
+
+The repository showcases the project concept, architecture, and development process.
+
+---
+
+## 📬 Connect With Me
+
+Feel free to explore my other projects and connect with me.
+
+⭐ If you found this project interesting, consider giving it a star!
