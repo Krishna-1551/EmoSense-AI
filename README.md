@@ -174,43 +174,12 @@ My primary contributions included:
 - Documentation
 
 The repository showcases the project concept, architecture, and development process.
-## 📸 Screenshots
-
-### 🔐 Login Page
-
-![Login Page 1 ](screenshots/login0.png)
-![Login Page 2 ](screenshots/login1.png)
-![Login Page 3 ](screenshots/login2.png)
-
 ---
+## 📸 Project Gallery
 
-### 📊 Dashboard
+Explore the complete visual walkthrough of EmoSense AI, including authentication, dashboard, analytics, emotion insights, reports, and admin features.
 
-![Dashboard](screenshots/Admin1.png)
-
----
-
-### 📈 Analytics
-
-![Analytics](screenshots/analytics.png)
-
----
-
-### 😊 Emotion Insights
-
-![Emotion Insights](screenshots/sidebar.png)
-
----
-
-### 👨‍💼 Admin Panel
-
-![Admin Panel](screenshots/Admin2.png)
-
----
-###  Reports
-
-![Analysis Report](screenshots/report.png)
-
+➡️ **View the complete screenshot gallery:** [📂 Open Gallery](screenshots/README.md)
 
 ## 📬 Connect With Me
 
