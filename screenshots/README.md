@@ -1,0 +1,10 @@
+Project screenshots will be stored here
+<img width="1914" height="873" alt="login2" src="https://github.com/user-attachments/assets/625a9703-e1e3-40bc-a538-13ad637f8774" />
+<img width="1919" height="829" alt="login0" src="https://github.com/user-attachments/assets/0f5e910f-be5e-4f3b-8cc5-01921af951b5" />
+<img width="1916" height="865" alt="login1" src="https://github.com/user-attachments/assets/955ea15b-4b82-4c5d-9771-8e6370d299f2" />
+<img width="1901" height="866" alt="Admin1" src="https://github.com/user-attachments/assets/14c07e62-32af-4b53-ba02-7fc2edbe870c" />
+<img width="1521" height="870" alt="chat" src="https://github.com/user-attachments/assets/85a29bee-e15a-447f-9522-88849a8c0f67" />
+<img width="400" height="870" alt="sidebar" src="https://github.com/user-attachments/assets/c51a7f18-340f-4364-a15f-52afd38e9115" />
+<img width="653" height="795" alt="report" src="https://github.com/user-attachments/assets/dc4c5d21-4865-47e9-90c3-8fc63b5bdbea" />
+<img width="1907" height="870" alt="Admin2" src="https://github.com/user-attachments/assets/9356a966-c12d-499d-9f8e-9a74b7843466" />
+<img width="1881" height="582" alt="analytics" src="https://github.com/user-attachments/assets/e7b7e634-03fa-4f39-bd83-c564ff57a683" />
